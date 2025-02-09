@@ -1,0 +1,119 @@
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: normal;
+  src: url('~/assets/fonts/Vazir-FD-WOL.eot') format('eot'),
+    url('~~/assets/fonts/Vazir-FD-WOL.woff') format('woff'),
+    url('~~/assets/fonts/Vazir-FD-WOL.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: boldvazir;
+  font-style: normal;
+  font-weight: normal;
+  src: url('~/assets/fonts/Vazir-Bold-FD-WOL.eot') format('eot'),
+    url('~/assets/fonts/Vazir-Bold-FD-WOL.ttf') format('ttf'),
+    url('~/assets/fonts/Vazir-Bold-FD-WOL.woff') format('woff'),
+    url('~/assets/fonts/Vazir-Bold-FD-WOL.woff2') format('woff2');
+}
+
+body,
+* {
+  font-family: vazir !important;
+}
+.color-blue-1851FF{
+  color: #1851FF;
+}
+.px-85px{
+  padding-right: 85px;
+  padding-left: 85px;
+}
+.w-166px{
+  width: 122px;
+}
+
+.w-900px {
+  max-width: 1208px;
+  width: 100%;
+}
+
+.font-bold-number {
+  font-family: boldvazir !important;
+}
+
+.color-blue-dark {
+  color: #082680;
+}
+
+.w-145px {
+  width: 145px;
+}
+
+.bg-blue-dark {
+  background-color: #082680;
+}
+
+.br-15px {
+  border-radius: 15px;
+}
+
+.top-20-right-4 {
+  position: absolute;
+  top: 20%;
+  right: 9%;
+  width: 335px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.background-container {
+  position: relative;
+  height: 480px;
+  background-image: url('/bg-img.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.cover-image{
+  background-image: url('/image 24.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.br-2px-solid {
+  border: 2px solid #dbdbdb;
+}
+
+.bg-img-cover {
+  position: relative;
+  background-image: url('/Illustration 4.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.text-content {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.w-100-top-15 {
+  position: absolute;
+  width: 100%;
+  top: 15px;
+}
+
+@media (max-width: 768px) {
+  .w-295px {
+    width: 295px;
+  }
+
+  .list-style-none {
+    list-style-type: none;
+  }
+}
