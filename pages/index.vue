@@ -118,7 +118,7 @@
       <div class="has-text-centered is-hidden-desktop is-hidden-tablet">
         <img src="Frame 146.png" alt="">
       </div>
-      <div class="columns mx-2 is-centered mt-5">
+      <div class="columns mx-2 is-centered mt-5 mb-6">
         <div class="column is-9">
           <p class="has-text-centered mb-4">
             بهبود تجربه مشتری، افزایش رضایت کاربران و در نهایت رشد اقتصادی در این حوزه شود. همچنین، با توجه به نیازهای

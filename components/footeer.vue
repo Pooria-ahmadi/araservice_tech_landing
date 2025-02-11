@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="columns mx-0 cover-image py-6 px-85px mt-6">
+        <div class="columns mx-0 cover-image py-6 px-85px">
             <div class="column">
                 <p class="has-text-white is-size-5 has-text-weight-bold">
                     ما <span class="has-text-weight-bold color-blue-1851FF">
