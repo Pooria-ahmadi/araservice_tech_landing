@@ -59,7 +59,7 @@ export default {
   left: 50%;
   transform: translateX(-50%);
   background-color: white;
-  max-width: 1000px;
+  max-width: 1208px;
   width: 100%;
   border-radius: 15px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);

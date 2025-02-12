@@ -13,14 +13,14 @@
         <p class="has-text-white mt-2 font-bold-number">
           اگر شما هم علاقه‌مند به کار در یک محیط پویا و حرفه‌ای هستید، همین حالا اقدام کنید!
         </p>
-        <button class="button has-background-white has-text-info-dark br-15px px-5 mt-5 w-145px">
+        <NuxtLink to="/Employment" class="button has-background-white has-text-info-dark br-15px px-5 mt-5 w-145px">
           <div class="is-align-items-center is-flex">
             <p class="color-blue-dark ml-3">
               استخدام
             </p>
             <img src="Icon.png" alt="">
           </div>
-        </button>
+        </NuxtLink>
       </div>
     </div>
     <div class="w-900px mx-auto mt-5">
