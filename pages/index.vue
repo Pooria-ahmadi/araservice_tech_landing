@@ -13,14 +13,14 @@
         <p class=" mt-2 font-bold-number">
           تعمیرات لوازم خانگی، و تجهیزات صنعتی با کیفیت بالا و قیمت مناسب
         </p>
-        <button class="button bg-blue-dark br-15px px-5 mt-5 w-145px">
+        <NuxtLink to="/login" class="button bg-blue-dark br-15px px-5 mt-5 w-145px">
           <div class="is-align-items-center is-flex">
             <p class="has-text-white ml-3">
               ورود
             </p>
             <img src="left white.png" alt="">
           </div>
-        </button>
+        </NuxtLink>
       </div>
     </div>
     <div class="has-text-centered is-hidden-mobile">
