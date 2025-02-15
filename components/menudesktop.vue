@@ -15,7 +15,7 @@
             <NuxtLink to="/" class=" mx-5 mt-10px color-blue-dark" href="#">
               صفحه اصلی
             </NuxtLink>
-            <NuxtLink to="/" class=" mx-5 mt-10px has-text-black is-flex is-align-items-center" href="#">
+            <NuxtLink to="/repairservices" class=" mx-5 mt-10px has-text-black is-flex is-align-items-center" href="#">
               <p>
                 نصب اپلیکیشن
               </p>
