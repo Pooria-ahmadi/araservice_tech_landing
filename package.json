@@ -1,5 +1,5 @@
 {
-  "name": "irancoton",
+  "name": "araservice",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -10,11 +10,8 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
-    "animate.css": "^4.1.1",
-    "aos": "^2.3.4",
     "bulma-carousel": "^4.0.24",
     "core-js": "^3.25.3",
-    "grapesjs": "^0.21.8",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",

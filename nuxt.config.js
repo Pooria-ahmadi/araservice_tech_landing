@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: ' ایران کتان',
+    title: ' آرا سرویس',
     htmlAttrs: {
       lang: 'fa',
       dir:'rtl',
@@ -20,14 +20,10 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     'assets/bulma/css/bulma.min.css',
-    'assets/css/style.css',
-    'aos/dist/aos.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    { src: '~/plugins/animate.js', mode: 'client' },
-    { src: '~/plugins/aos.js', ssr: false }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
